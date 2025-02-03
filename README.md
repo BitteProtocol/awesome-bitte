@@ -56,11 +56,12 @@ List of Awesome Resources built on top of Bitte Protocol
 - [@bitte-ai/agent-sdk](https://www.npmjs.com/package/@bitte-ai/agent-sdk)
 
 ### Dapps Using Bitte Tech
-- [Growthmate Chat](https://chat.growthmate.xyz/)
+ - [Growthmate Chat](https://chat.growthmate.xyz/)
  - [Ref.finance](https://app.ref.finance)
  - [Burrow](https://app.burrow.finance/)
  - [Meme.cooking](https://meme.cooking)
  - [Near AI](https://auth.near.ai/)
+ - [Mintbase](https://www.mintbase.xyz)
  - [Pikespike.ai](https://pikespeak.ai/)
  - [Nearblocks](https://nearblocks.io)
  - [Deltatrade](https://deltatrade.ai/)
