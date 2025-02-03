@@ -36,6 +36,9 @@ List of Awesome Resources built on top of Bitte Protocol
 - [Building a Basic Dapp Radar Agent](https://x.com/rubenmarcus_dev/status/1863048611845513544)
 - [Embed our AI Chat to your Webpage](https://x.com/BitteProtocol/status/1884932235914064006)
 
+### Articles
+- [Bitte Protocol: Simplifying Blockchain Transactions with AI-Powered On-Chain Agents and Universal Safe Accounts](https://www.gate.io/learn/articles/bitte-protocol-simplifying-blockchain-transactions-with-ai-powered-on-chain-agents-and-universal-safe-accounts/5915)
+
 ### Other Videos
 -  [\[REDACTED\] 2024 | AI Agents on Bitte Powering Decentralized Intelligence](https://www.youtube.com/watch?v=u77MFO0LwMg)
 - [AI Agent Infrastructure: Building Agents on NEAR with Bitte | \[REDACTED\] Bangkok 2024](https://www.youtube.com/watch?v=DdTstl5h-ds)
