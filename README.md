@@ -63,6 +63,7 @@ List of Awesome Resources built on top of Bitte Protocol
  - [Ref.finance](https://app.ref.finance)
  - [Burrow](https://app.burrow.finance/)
  - [Meme.cooking](https://meme.cooking)
+ - [Grafun](https://gra.fun/near-mainnet)
  - [Near AI](https://auth.near.ai/)
  - [Mintbase](https://www.mintbase.xyz)
  - [Pikespike.ai](https://pikespeak.ai/)
