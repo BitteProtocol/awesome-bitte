@@ -60,6 +60,8 @@ List of Awesome Resources built on top of Bitte Protocol
 - [@bitte-ai/agent-sdk](https://www.npmjs.com/package/@bitte-ai/agent-sdk)
 
 ### Dapps Using Bitte Tech
+ - [Coolfi](https://coolfi-ai.vercel.app/dashboard/home)
+ - [SatSlinger](https://www.satslinger.com/agent)
  - [Growthmate Chat](https://chat.growthmate.xyz/)
  - [Ref.finance](https://app.ref.finance)
  - [Burrow](https://app.burrow.finance/)
