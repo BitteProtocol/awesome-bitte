@@ -46,6 +46,7 @@ List of Awesome Resources built on top of Bitte Protocol
 
 ### Boilerplates
 - [Chat Boilerplate](https://github.com/BitteProtocol/chat-boilerplate)
+- [Chat Boilerplate Next.js Pages Router](https://github.com/BitteProtocol/chat-boilerplate-next-pages)
 - [Agent Api Boilerplate](https://github.com/BitteProtocol/agent-next-boilerplate)
 
 ### Packages
