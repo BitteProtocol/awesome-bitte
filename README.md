@@ -45,7 +45,7 @@ List of Awesome Resources built on top of Bitte Protocol
 -  [Effortless Cross-Chain Wallet Integration with Bitte](https://www.youtube.com/shorts/CnX-TmZScWY "Effortless Cross-Chain Wallet Integration with Bitte")
 
 ### Boilerplates
-- [Chat Boilerplate](https://github.com/BitteProtocol/chat-boilerplate)
+- [Chat Boilerplate](https://github.com/BitteProtocol/ai/tree/main/examples/chat-boilerplate)
 - [Chat Boilerplate Next.js Pages Router](https://github.com/BitteProtocol/chat-boilerplate-next-pages)
 - [Agent Api Boilerplate](https://github.com/BitteProtocol/agent-next-boilerplate)
 
